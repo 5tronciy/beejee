@@ -1,0 +1,14 @@
+.sort-button {
+  display: inline-block;
+
+  &__button {
+    border: none;
+    background: none;
+    padding: 5px 10px;
+  }
+
+  &__icon {
+    width: 1em;
+    height: 1em;
+  }
+}
